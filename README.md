@@ -52,4 +52,5 @@ Add your nicknames here:
 * amfexd
 * Родионов Леонид
 * Крупин Константин
+* valer020
 * 
